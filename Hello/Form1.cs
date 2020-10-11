@@ -15,7 +15,8 @@ namespace Hello
         public Form1()
         {
             InitializeComponent();
-            textBox1.Text = "buy";
+            textBox1.Text = "complete";
         }
+
     }
 }
